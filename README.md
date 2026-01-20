@@ -1,4 +1,7 @@
+# 💫 Hi 👋, I'm Vishal Tiwadi
+**A passionate Full Stack Developer || Laravel Developer **
 
+Email Me 👉 ✉️ **vishaltiwadi09@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-tiwadi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishaltiwadi09@gmail.com) 
 
@@ -13,3 +16,9 @@
 [![](https://visitcount.itsvg.in/api?id=Vishal09Software&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
