@@ -5,10 +5,6 @@ Email Me 👉 ✉️ **vishaltiwadi09@gmail.com** For Collaboration/Project or A
 # 💫 About Me:
 🔭 I’m currently working on<br>Full-stack web development projects using Laravel, Node.js, React, Vue.js, and MySQL, including admin panels, APIs, and business automation systems.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, SaaS platforms, e-commerce systems, and real-world web applications.<br><br>🤝 I’m looking for help with<br>Scaling applications, system architecture, performance optimization, and advanced DevOps practices.<br><br>🌱 I’m currently learning<br>Advanced Laravel features, GraphQL APIs, system design, and cloud deployment.<br><br>💬 Ask me about<br>Laravel, Node.js, REST & GraphQL APIs, database design, authentication, and full-stack development.<br><br>⚡ Fun fact<br>I love turning complex business requirements into simple, user-friendly web solutions 🚀
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vishal09Software&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_silent_vishal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-tiwadi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishaltiwadi09@gmail.com) 
 
